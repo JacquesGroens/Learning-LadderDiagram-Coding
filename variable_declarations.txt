@@ -1,0 +1,17 @@
+VAR_INPUT
+	
+	InputVariable1 : INT;
+
+END_VAR
+
+VAR_OUTPUT 
+	
+	OutputVariable1 : REAL;
+
+END_VAR
+
+VAR_IN_OUT
+	
+	IOVariable1 : STRING;
+
+END_VAR
